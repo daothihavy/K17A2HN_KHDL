@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <companyName>Công ty A</companyName>
+    <director>
+        <firstName>Trương</firstName>
+        <lastName>Khắc A</lastName>
+    </director>
+    <address>
+        <street>90/70 khuyến lương</street>
+        <city>Hà Nội</city>
+        <postalCode>123456</postalCode>
+        <country>Việt Nam</country>
+    </address>
+    <contact>
+        <phone>0123-456-789</phone>
+        <email>t@abc.com.vn</email>
+    </contact>
+    <taxCode>0123456789</taxCode>
+</company>
